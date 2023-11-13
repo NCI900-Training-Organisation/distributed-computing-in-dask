@@ -1,0 +1,3 @@
+ddf.groupby("Origin").Origin.count().compute()
+
+
